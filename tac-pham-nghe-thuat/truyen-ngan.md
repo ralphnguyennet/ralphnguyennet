@@ -1,0 +1,9 @@
+---
+cover: >-
+  ../.gitbook/assets/pngtree-vintage-style-abstract-art-banner-watercolor-texture-vector-with-contemporary-elements-image_13889312.png
+coverY: 0
+---
+
+# Truyện ngắn
+
+Đang cập nhật...
