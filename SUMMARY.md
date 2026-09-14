@@ -1320,6 +1320,8 @@
               * [3. Floral Symphony](tac-pham-nghe-thuat/am-nhac/tac-pham-sang-tac/nhac-chuyen-biet/nhac-cay-trong/cay-ca-phe/lieu-phap-nuoi-duong-khang-sau-benh-giam-tress-cho-ca-phe/danh-sach-ca-khuc/3.-floral-symphony.md)
               * [4. Harmony of Germination](tac-pham-nghe-thuat/am-nhac/tac-pham-sang-tac/nhac-chuyen-biet/nhac-cay-trong/cay-ca-phe/lieu-phap-nuoi-duong-khang-sau-benh-giam-tress-cho-ca-phe/danh-sach-ca-khuc/4.-harmony-of-germination.md)
               * [5. Roots Resonance](tac-pham-nghe-thuat/am-nhac/tac-pham-sang-tac/nhac-chuyen-biet/nhac-cay-trong/cay-ca-phe/lieu-phap-nuoi-duong-khang-sau-benh-giam-tress-cho-ca-phe/danh-sach-ca-khuc/5.-roots-resonance.md)
+    * [Album Tình Khúc Nguyễn Hồng Phương Vol.1](tac-pham-nghe-thuat/am-nhac/tac-pham-sang-tac/album-tinh-khuc-nguyen-hong-phuong-vol.1/README.md)
+      * [Page 1](tac-pham-nghe-thuat/am-nhac/tac-pham-sang-tac/album-tinh-khuc-nguyen-hong-phuong-vol.1/page-1.md)
   * [Hòa âm phối khí](tac-pham-nghe-thuat/am-nhac/hoa-am-phoi-khi/README.md)
     * [Truy cập Soundcloud](https://soundcloud.com/nhacsinguyenhongphuong)
   * [Dự án Âm nhạc](tac-pham-nghe-thuat/am-nhac/du-an-am-nhac/README.md)
