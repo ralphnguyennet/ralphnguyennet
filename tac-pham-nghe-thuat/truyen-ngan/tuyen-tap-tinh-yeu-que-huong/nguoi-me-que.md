@@ -5,9 +5,7 @@ coverY: 0
 
 # Người mẹ quê
 
-**NGƯỜI MẸ QUÊ**
-
-**Truyện ngắn**\
+**NGƯỜI MẸ QUÊ**\
 **Chủ đề: Tình yêu quê hương**\
 **Tác giả: Nguyễn Hồng Phương**
 

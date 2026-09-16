@@ -5,7 +5,7 @@ coverY: 0
 
 # Cánh đồng mùa lúa chín
 
-## CÁNH ĐỒNG MÙA LÚA CHÍN
+**CÁNH ĐỒNG MÙA LÚA CHÍN**
 
 **Chủ đề: Tình yêu quê hương**\
 **Tác giả: Nguyễn Hồng Phương**
