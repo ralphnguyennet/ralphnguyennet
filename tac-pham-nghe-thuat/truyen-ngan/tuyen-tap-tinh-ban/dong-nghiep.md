@@ -5,12 +5,12 @@ coverY: 0
 
 # Đồng nghiệp
 
-## ĐỒNG NGHIỆP
+**ĐỒNG NGHIỆP**
 
 **Chủ đề: Tình bạn**\
 **Tác giả: Nguyễn Hồng Phương**
 
-#### 1. Ngày đầu gặp gỡ
+&#x20;**Ngày đầu gặp gỡ**
 
 Ngày đầu tiên bước vào công ty, Minh đứng trước cánh cửa kính, hít một hơi thật sâu.
 
@@ -46,7 +46,7 @@ Và một người xa lạ bỗng trở nên thân quen lúc nào chẳng hay.
 
 ***
 
-#### 2. Đồng nghiệp hay đối thủ?
+&#x20;**Đồng nghiệp hay đối thủ?**
 
 Những ngày đầu, Minh và Lan làm việc khá ăn ý.
 
