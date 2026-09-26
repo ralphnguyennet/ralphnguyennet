@@ -470,8 +470,9 @@ Và đôi khi, thứ đưa một con người đi xa nhất không phải là t�
 
 Bởi cuối cùng,
 
-**tiền có thể mua được cơ hội,**\
-**quyền lực có thể mở được cánh cửa,**\
-**nhưng chỉ có sự tử tế và chữ tín mới khiến người khác muốn mở cánh cửa ấy cho ta thêm một lần nữa.**
+_tiền có thể mua được cơ hội,_\
+_quyền lực có thể mở được cánh cửa,_\
+_nhưng chỉ có sự tử tế và chữ tín mới khiến người khác muốn mở cánh cửa ấy cho ta thêm một lần nữa._
 
-**Thành công bằng tử tế — thành công không chỉ để có được, mà để xứng đáng với những gì mình có.**
+_Thành công bằng tử tế  thành công không chỉ để có được, mà để xứng đáng với những gì mình có._
+
