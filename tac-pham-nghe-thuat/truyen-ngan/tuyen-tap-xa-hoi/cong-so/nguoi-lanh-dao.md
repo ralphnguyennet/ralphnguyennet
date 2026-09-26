@@ -5,7 +5,7 @@ coverY: 0
 
 # Người lãnh đạo
 
-## NGƯỜI LÃNH ĐẠO
+**NGƯỜI LÃNH ĐẠO**
 
 **Truyện ngắn – Chủ đề: Xã hội – Công sở**\
 **Tác giả: Nguyễn Hồng Phương**
