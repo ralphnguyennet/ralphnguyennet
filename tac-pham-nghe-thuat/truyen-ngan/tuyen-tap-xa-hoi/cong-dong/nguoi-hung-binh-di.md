@@ -5,7 +5,7 @@ coverY: 0
 
 # Người hùng bình dị
 
-## NGƯỜI HÙNG BÌNH DỊ
+**NGƯỜI HÙNG BÌNH DỊ**
 
 **Thể loại:** Truyện ngắn – Xã hội, Cộng đồng\
 **Tác giả:** **Nguyễn Hồng Phương**
@@ -478,4 +478,4 @@ Từ một trái tim biết sẻ chia.
 
 Và từ mỗi chúng ta.
 
-**Hãy sống tử tế hôm nay, bởi biết đâu một hành động nhỏ của bạn lại trở thành ánh sáng cho cuộc đời của một người khác.**
+Hãy sống tử tế hôm nay, bởi biết đâu một hành động nhỏ của bạn lại trở thành ánh sáng cho cuộc đời của một người khác.
