@@ -24,3 +24,11 @@ coverY: 0
 > _Nếu bạn không đi bao giờ bạn sẽ đến"_
 >
 > _(Nguyễn Hồng Phương)_
+
+<details>
+
+<summary>Chứng nhận</summary>
+
+<figure><img src="../../.gitbook/assets/signal-2026-10-08-20-52-12-989_002.png" alt=""><figcaption></figcaption></figure>
+
+</details>

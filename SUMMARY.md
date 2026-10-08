@@ -1897,6 +1897,7 @@
 * [Khóa học guitar đệm hát căn bản](khoa-hoc/khoa-hoc-guitar-dem-hat-can-ban.md)
 * [Khóa Học Guitar Nâng Cao\_ Guitar Điện](khoa-hoc/khoa-hoc-guitar-nang-cao_-guitar-dien.md)
 * [Khóa học Guitar classic (cổ điển)](khoa-hoc/khoa-hoc-guitar-classic-co-dien.md)
+* [Khóa học sáng tác ca khúc](khoa-hoc/khoa-hoc-sang-tac-ca-khuc.md)
 
 ## TÀI NGUYÊN SỐ
 

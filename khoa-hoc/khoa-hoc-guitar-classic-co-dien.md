@@ -30,3 +30,5 @@ Bạn đã từng bị mê hoặc những tiếng đàn của những nghệ sĩ
 * Được ưu đãi khi mua các sản phẩm nhạc cụ tại Hệ thống NHẠC SỐ (Nhacso.io.vn)
 * Đặc biệt được tham gia các khóa học nâng cao kế tiếp tại Hệ thống  NHẠC SỐ (Nhacso.io.vn) với học phí không thay đổi.
 * Học phí có thể thay đổi linh hoạt tùy vào từng học viên
+
+**Liên hệ : 090 87 81081 (Nhạc sĩ Nguyễn Hồng Phương)**
